@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "nombre": "play 2 chipeada",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_692949-MLA41979524821_052020-O.webp",
+        "precio":"$5000"
+    },
+    {
+        "id": "2",
+        "nombre": "computadora",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_711170-MLA31113816812_062019-V.webp",
+        "precio": "$30000"
+    },
+    {
+        "id": "3",
+        "nombre": "monitor",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_973781-MLA48131216539_112021-V.webp",
+        "precio": "$15000"
+    }
+]
